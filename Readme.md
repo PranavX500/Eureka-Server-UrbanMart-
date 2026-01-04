@@ -2,7 +2,7 @@
 
 The **Eureka Server** acts as the **central service registry** for the Ecommerce Microservices system.
 
-All microservices (API Gateway, User Service, Product Service, Cart Service, Order Service, Payment Service, OTP Service) register themselves with Eureka, allowing **dynamic service discovery and load-balanced communication**.
+All microservices (API Gateway, User Service, Product Service, Cart Service, Order Service, Payment Service, OTP Service) register themselve with Eureka, allowing **dynamic service discovery and load-balanced communication**.
 
 ---
 
