@@ -43,9 +43,7 @@ All microservices (API Gateway, User Service, Product Service, Cart Service, Ord
 
 Once the Eureka Server is running, the dashboard can be accessed at:
 
-```
-http://localhost:8761
-```
+
 
 The dashboard displays:
 
