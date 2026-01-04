@@ -15,7 +15,7 @@ All microservices (API Gateway, User Service, Product Service, Cart Service, Ord
 
 ---
 
-# 📌 Responsibilities
+#  Responsibilities
 
 ###  **Service Registration**
 
