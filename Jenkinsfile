@@ -38,9 +38,9 @@ pipeline {
                 )]) {
                     sh '''
                         docker login -u $DockerHubUsername -p $DockerHubPassword
-                        docker compose pull
-                        docker compose down || true
-                        docker compose up -d
+                        docker-compose pull
+                        docker-compose down || true
+                        docker-compose up -d
                     '''
                 }
             }
